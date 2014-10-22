@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Screen Changer 2 point ohh</string>
+    <string name="firstscreentext">Hello world!</string>
+    <string name="title_activity_second">Second Screen :D</string>
+    <string name="secondscreentext">second screen</string>
+    <string name="buttontext">Click here to change to the next screen</string>
+
+</resources>
